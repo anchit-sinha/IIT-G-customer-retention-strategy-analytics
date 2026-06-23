@@ -39,7 +39,7 @@ This project analyzes customer behavior data to identify high-value customer seg
 
 ## Dashboard Preview
 
-<img width="1152" height="647" alt="Screenshot 2026-06-23 232844" src="https://github.com/user-attachments/assets/dd66d896-c945-4e3c-b256-d0f1ef94ee19" />
+<img width="1152" height="647" alt="Screenshot 2026-06-23 232844" src="https://github.com/user-attachments/assets/306f1a07-9ccf-4c9a-91e2-dcf99a2414cb" />
 
 ---
 
